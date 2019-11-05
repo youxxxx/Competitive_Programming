@@ -1,0 +1,15 @@
+﻿  source.cpp
+d:\files\c\fhc\2018\2r\3\3\source.cpp(108): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\fhc\2018\2r\3\3\source.cpp(115): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\fhc\2018\2r\3\3\source.cpp(25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+d:\files\c\fhc\2018\2r\3\3\source.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+d:\files\c\fhc\2018\2r\3\3\source.cpp(28): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\files\c\fhc\2018\2r\3\3\source.cpp(32): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+d:\files\c\fhc\2018\2r\3\3\source.cpp(39): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+  3.vcxproj -> D:\files\C\fhc\2018\2r\3\Debug\3.exe
+  3.vcxproj -> D:\files\C\fhc\2018\2r\3\Debug\3.pdb (Partial PDB)
