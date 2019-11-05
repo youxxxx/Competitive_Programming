@@ -1,0 +1,9 @@
+﻿  source.cpp
+d:\files\c\cc\misc\aara2018\armbh2\armbh2\source.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\aara2018\armbh2\armbh2\source.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\aara2018\armbh2\armbh2\source.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  ARMBH2.vcxproj -> D:\files\C\cc\misc\AARA2018\ARMBH2\Debug\ARMBH2.exe
+  ARMBH2.vcxproj -> D:\files\C\cc\misc\AARA2018\ARMBH2\Debug\ARMBH2.pdb (Partial PDB)

@@ -1,0 +1,13 @@
+﻿  source.cpp
+d:\files\c\cc\misc\geha2018\geha1806\geha1806\source.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\geha2018\geha1806\geha1806\source.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\geha2018\geha1806\geha1806\source.cpp(104): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\geha2018\geha1806\geha1806\source.cpp(115): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+  d:\files\c\cc\misc\geha2018\geha1806\geha1806\source.cpp(115): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  d:\files\c\cc\misc\geha2018\geha1806\geha1806\source.cpp(115): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+d:\files\c\cc\misc\geha2018\geha1806\geha1806\source.cpp(12): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+  GEHA1806.vcxproj -> D:\files\C\cc\misc\GEHA2018\GEHA1806\Debug\GEHA1806.exe
+  GEHA1806.vcxproj -> D:\files\C\cc\misc\GEHA2018\GEHA1806\Debug\GEHA1806.pdb (Partial PDB)

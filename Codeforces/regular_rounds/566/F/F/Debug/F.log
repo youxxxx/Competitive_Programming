@@ -1,0 +1,28 @@
+﻿  source.cpp
+d:\files\c\cf\566\f\f\source.cpp(53): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(58): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(80): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(85): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(153): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(155): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(187): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(189): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(192): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\566\f\f\source.cpp(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\566\f\f\source.cpp(119): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\566\f\f\source.cpp(107): warning C4101: 'uval' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(103): warning C4101: 'lb' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(107): warning C4101: 'lval' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(101): warning C4101: 'prod' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(103): warning C4101: 'ub' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(101): warning C4101: 'pw' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(107): warning C4101: 'tval' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(106): warning C4101: 'tcand' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(106): warning C4101: 'ucand' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(102): warning C4101: 'cur' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(100): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\566\f\f\source.cpp(102): warning C4101: 'inv' :참조되지 않은 지역 변수입니다.
+  F.vcxproj -> D:\files\C\cf\566\F\Debug\F.exe
+  F.vcxproj -> D:\files\C\cf\566\F\Debug\F.pdb (Partial PDB)

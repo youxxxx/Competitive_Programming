@@ -1,0 +1,16 @@
+#include<cstdio>
+#include<cmath>
+#include<vector>
+#include<algorithm>
+#include<string>
+
+using namespace std;
+
+int main()
+{
+	int n;
+
+	scanf("%d", &n);
+
+	return 0;
+}

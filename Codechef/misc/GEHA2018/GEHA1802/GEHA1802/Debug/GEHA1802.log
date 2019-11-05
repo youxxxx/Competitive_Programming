@@ -1,0 +1,9 @@
+﻿  source.cpp
+d:\files\c\cc\misc\geha2018\geha1802\geha1802\source.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\geha2018\geha1802\geha1802\source.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\geha2018\geha1802\geha1802\source.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  GEHA1802.vcxproj -> D:\files\C\cc\misc\GEHA2018\GEHA1802\Debug\GEHA1802.exe
+  GEHA1802.vcxproj -> D:\files\C\cc\misc\GEHA2018\GEHA1802\Debug\GEHA1802.pdb (Partial PDB)

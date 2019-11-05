@@ -1,0 +1,12 @@
+﻿  source.cpp
+d:\files\c\cc\lunch\2018\10\weird2\weird2\source.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\2018\10\weird2\weird2\source.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\2018\10\weird2\weird2\source.cpp(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\2018\10\weird2\weird2\source.cpp(22): warning C4101: 'off' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\lunch\2018\10\weird2\weird2\source.cpp(11): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\lunch\2018\10\weird2\weird2\source.cpp(23): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  WEIRD2.vcxproj -> D:\files\C\cc\lunch\2018\10\WEIRD2\Debug\WEIRD2.exe
+  WEIRD2.vcxproj -> D:\files\C\cc\lunch\2018\10\WEIRD2\Debug\WEIRD2.pdb (Partial PDB)

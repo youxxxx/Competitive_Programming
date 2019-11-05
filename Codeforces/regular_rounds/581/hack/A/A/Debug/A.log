@@ -1,0 +1,4 @@
+﻿  source.cpp
+d:\files\c\cf\581\hack\a\a\source.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  A.vcxproj -> D:\files\C\cf\581\hack\A\Debug\A.exe
+  A.vcxproj -> D:\files\C\cf\581\hack\A\Debug\A.pdb (Partial PDB)

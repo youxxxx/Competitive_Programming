@@ -1,0 +1,12 @@
+﻿  source.cpp
+d:\files\c\cc\misc\moscwj19\antmat\antmat\source.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\moscwj19\antmat\antmat\source.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\moscwj19\antmat\antmat\source.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\misc\moscwj19\antmat\antmat\source.cpp(15): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\misc\moscwj19\antmat\antmat\source.cpp(17): warning C4101: 'next' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\misc\moscwj19\antmat\antmat\source.cpp(19): warning C4101: 'last' :참조되지 않은 지역 변수입니다.
+  ANTMAT.vcxproj -> D:\files\C\cc\misc\MOSCWJ19\ANTMAT\Debug\ANTMAT.exe
+  ANTMAT.vcxproj -> D:\files\C\cc\misc\MOSCWJ19\ANTMAT\Debug\ANTMAT.pdb (Partial PDB)

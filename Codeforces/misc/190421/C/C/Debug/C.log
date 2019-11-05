@@ -1,0 +1,15 @@
+﻿  source.cpp
+d:\files\c\cf\misc\190421\c\c\source.cpp(44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cf\misc\190421\c\c\source.cpp(48): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cf\misc\190421\c\c\source.cpp(59): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cf\misc\190421\c\c\source.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cf\misc\190421\c\c\source.cpp(81): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cf\misc\190421\c\c\source.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\misc\190421\c\c\source.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\misc\190421\c\c\source.cpp(89): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\misc\190421\c\c\source.cpp(17): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+  C.vcxproj -> D:\files\C\cf\misc\190421\C\Debug\C.exe
+  C.vcxproj -> D:\files\C\cf\misc\190421\C\Debug\C.pdb (Partial PDB)

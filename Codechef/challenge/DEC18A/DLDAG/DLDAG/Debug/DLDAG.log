@@ -1,0 +1,19 @@
+﻿  source.cpp
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(52): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(95): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(122): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(130): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(154): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(117): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+d:\files\c\cc\challenge\dec18a\dldag\dldag\source.cpp(120): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  DLDAG.vcxproj -> D:\files\C\cc\challenge\DEC18A\DLDAG\Debug\DLDAG.exe
+  DLDAG.vcxproj -> D:\files\C\cc\challenge\DEC18A\DLDAG\Debug\DLDAG.pdb (Partial PDB)

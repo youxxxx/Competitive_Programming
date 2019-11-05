@@ -1,0 +1,7 @@
+﻿  source.cpp
+d:\files\c\cf\ecf\48\hack\41185147\41185147\source.cpp(9): warning C4244: '초기화 중': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\ecf\48\hack\41185147\41185147\source.cpp(10): warning C4244: '초기화 중': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\ecf\48\hack\41185147\41185147\source.cpp(11): warning C4244: '인수': '__int64'에서 'std::size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\ecf\48\hack\41185147\41185147\source.cpp(6): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  41185147.vcxproj -> D:\files\C\cf\ecf\48\hack\41185147\Debug\41185147.exe
+  41185147.vcxproj -> D:\files\C\cf\ecf\48\hack\41185147\Debug\41185147.pdb (Partial PDB)

@@ -1,0 +1,12 @@
+﻿  source.cpp
+d:\files\c\cf\520\b\b\source.cpp(49): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\520\b\b\source.cpp(51): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\520\b\b\source.cpp(99): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\520\b\b\source.cpp(118): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\520\b\b\source.cpp(127): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\520\b\b\source.cpp(141): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\520\b\b\source.cpp(145): warning C4800: '__int64': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\files\c\cf\520\b\b\source.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  B.vcxproj -> D:\files\C\cf\520\B\Debug\B.exe
+  B.vcxproj -> D:\files\C\cf\520\B\Debug\B.pdb (Partial PDB)

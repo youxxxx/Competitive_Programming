@@ -1,0 +1,15 @@
+﻿  source.cpp
+d:\files\c\cc\cook\99\adastair\adastair\source.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\cook\99\adastair\adastair\source.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\cook\99\adastair\adastair\source.cpp(27): warning C4477: 'scanf' : 서식 문자열 '%lld'에 '__int64 *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  d:\files\c\cc\cook\99\adastair\adastair\source.cpp(27): note: 서식 문자열에서 '%d'을(를) 사용하는 것이 좋습니다.
+  d:\files\c\cc\cook\99\adastair\adastair\source.cpp(27): note: 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  d:\files\c\cc\cook\99\adastair\adastair\source.cpp(27): note: 서식 문자열에서 '%I32d'을(를) 사용하는 것이 좋습니다.
+d:\files\c\cc\cook\99\adastair\adastair\source.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\cook\99\adastair\adastair\source.cpp(14): warning C4101: 'dec' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\cook\99\adastair\adastair\source.cpp(10): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  ADASTAIR.vcxproj -> D:\files\C\cc\cook\99\ADASTAIR\Debug\ADASTAIR.exe
+  ADASTAIR.vcxproj -> D:\files\C\cc\cook\99\ADASTAIR\Debug\ADASTAIR.pdb (Partial PDB)

@@ -1,0 +1,16 @@
+﻿  source.cpp
+d:\files\c\cf\517\b\b\source.cpp(76): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\files\c\cf\517\b\b\source.cpp(83): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\files\c\cf\517\b\b\source.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\517\b\b\source.cpp(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\517\b\b\source.cpp(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(142): warning C4800: 'const int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(141): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<bool,bool> &std::pair<bool,bool>::operator =<bool,int>(const std::pair<bool,int> &)'에 대한 참조를 확인하십시오.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(141): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<bool,bool> &std::pair<bool,bool>::operator =<bool,int>(const std::pair<bool,int> &)'에 대한 참조를 확인하십시오.
+  d:\files\c\cf\517\b\b\source.cpp(206): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<std::pair<bool,bool>,std::pair<int,int>> &std::pair<std::pair<bool,bool>,std::pair<int,int>>::operator =<std::pair<bool,int>,std::pair<int,int>>(const std::pair<std::pair<bool,int>,std::pair<int,int>> &)'에 대한 참조를 확인하십시오.
+  d:\files\c\cf\517\b\b\source.cpp(206): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<std::pair<bool,bool>,std::pair<int,int>> &std::pair<std::pair<bool,bool>,std::pair<int,int>>::operator =<std::pair<bool,int>,std::pair<int,int>>(const std::pair<std::pair<bool,int>,std::pair<int,int>> &)'에 대한 참조를 확인하십시오.
+  B.vcxproj -> D:\files\C\cf\517\B\Debug\B.exe
+  B.vcxproj -> D:\files\C\cf\517\B\Debug\B.pdb (Partial PDB)

@@ -1,0 +1,15 @@
+﻿  source.cpp
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(19): warning C4101: 'bound' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(14): warning C4101: 'psum' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(17): warning C4101: 'rside' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(16): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(17): warning C4101: 'lside' :참조되지 않은 지역 변수입니다.
+d:\files\c\cc\challenge\nov18b\gmedian\gmedian\source.cpp(16): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+  GMEDIAN.vcxproj -> D:\files\C\cc\challenge\NOV18B\GMEDIAN\Debug\GMEDIAN.exe
+  GMEDIAN.vcxproj -> D:\files\C\cc\challenge\NOV18B\GMEDIAN\Debug\GMEDIAN.pdb (Partial PDB)

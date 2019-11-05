@@ -1,0 +1,9 @@
+﻿  source.cpp
+d:\files\c\cc\lunch\ltime71\minarrs\minarrs\source.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\ltime71\minarrs\minarrs\source.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\ltime71\minarrs\minarrs\source.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  MINARRS.vcxproj -> D:\files\C\cc\lunch\LTIME71\MINARRS\Debug\MINARRS.exe
+  MINARRS.vcxproj -> D:\files\C\cc\lunch\LTIME71\MINARRS\Debug\MINARRS.pdb (Partial PDB)

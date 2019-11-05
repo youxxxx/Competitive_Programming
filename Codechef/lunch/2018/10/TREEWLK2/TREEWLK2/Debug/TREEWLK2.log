@@ -1,0 +1,19 @@
+﻿  source.cpp
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(62): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(130): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(135): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(193): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(198): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(212): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cc\lunch\2018\10\treewlk2\treewlk2\source.cpp(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  TREEWLK2.vcxproj -> D:\files\C\cc\lunch\2018\10\TREEWLK2\Debug\TREEWLK2.exe
+  TREEWLK2.vcxproj -> D:\files\C\cc\lunch\2018\10\TREEWLK2\Debug\TREEWLK2.pdb (Partial PDB)

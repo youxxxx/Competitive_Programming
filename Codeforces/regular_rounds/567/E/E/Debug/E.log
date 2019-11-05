@@ -1,0 +1,11 @@
+﻿  source.cpp
+d:\files\c\ac\bc\130\e\e\source.cpp(93): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\ac\bc\130\e\e\source.cpp(104): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\ac\bc\130\e\e\source.cpp(153): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\ac\bc\130\e\e\source.cpp(164): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\ac\bc\130\e\e\source.cpp(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\ac\bc\130\e\e\source.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  E.vcxproj -> D:\files\C\ac\bc\130\E\Debug\E.exe
+  E.vcxproj -> D:\files\C\ac\bc\130\E\Debug\E.pdb (Partial PDB)
