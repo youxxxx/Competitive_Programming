@@ -1,0 +1,84 @@
+﻿  source.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstddef(377): error C2338: The C++ Standard doesn't provide a hash for this type.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(421): note: 컴파일 중인 클래스 템플릿 인스턴스화 'std::hash<_Kty>'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=std::pair<__int64,__int64>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(265): note: 컴파일 중인 클래스 템플릿 인스턴스화 'std::is_empty<_Ty1>'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty1=std::hash<std::pair<__int64,__int64>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\unordered_map(23): note: 컴파일 중인 클래스 템플릿 인스턴스화 'std::_Uhash_compare<_Kty,_Hasher,_Keyeq>'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Hasher=std::hash<std::pair<__int64,__int64>>,
+              _Keyeq=std::equal_to<std::pair<__int64,__int64>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xhash(152): note: 컴파일 중인 클래스 템플릿 인스턴스화 'std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Ty=std::pair<__int64,__int64>,
+              _Hasher=std::hash<std::pair<__int64,__int64>>,
+              _Keyeq=std::equal_to<std::pair<__int64,__int64>>,
+              _Alloc=std::allocator<std::pair<const std::pair<__int64,__int64>,std::pair<__int64,__int64>>>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\unordered_map(86): note: 컴파일 중인 클래스 템플릿 인스턴스화 'std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Ty=std::pair<__int64,__int64>,
+              _Hasher=std::hash<std::pair<__int64,__int64>>,
+              _Keyeq=std::equal_to<std::pair<__int64,__int64>>,
+              _Alloc=std::allocator<std::pair<const std::pair<__int64,__int64>,std::pair<__int64,__int64>>>
+          ]
+  d:\files\c\lc\wc\182\c\c\source.cpp(32): note: 컴파일 중인 클래스 템플릿 인스턴스화 'std::unordered_map<std::pair<__int64,__int64>,std::pair<__int64,__int64>,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Ty=std::pair<__int64,__int64>
+          ]
+d:\files\c\lc\wc\182\c\c\source.cpp(45): error C2664: 'std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<const _Kty,_Ty>>>> std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::find(const std::pair<__int64,__int64> &) const': 인수 1을(를) 'initializer list'에서 'const std::pair<__int64,__int64> &'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Ty=std::pair<__int64,__int64>,
+              _Hasher=std::hash<std::pair<__int64,__int64>>,
+              _Keyeq=std::equal_to<std::pair<__int64,__int64>>,
+              _Alloc=std::allocator<std::pair<const std::pair<__int64,__int64>,std::pair<__int64,__int64>>>
+          ]
+  d:\files\c\lc\wc\182\c\c\source.cpp(45): note: 원인: 'initializer list'에서 'const std::pair<__int64,__int64>'(으)로 변환할 수 없습니다.
+  d:\files\c\lc\wc\182\c\c\source.cpp(45): note: 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+d:\files\c\lc\wc\182\c\c\source.cpp(48): error C2679: 이항 '[': 오른쪽 피연산자로 'initializer list' 형식을 사용하는 연산자가 없거나 허용되는 변환이 없습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\unordered_map(414): note: 'std::pair<__int64,__int64> &std::unordered_map<std::pair<__int64,__int64>,std::pair<__int64,__int64>,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::operator [](const std::pair<__int64,__int64> &)'일 수 있습니다.
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Ty=std::pair<__int64,__int64>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\unordered_map(233): note: 또는       'std::pair<__int64,__int64> &std::unordered_map<std::pair<__int64,__int64>,std::pair<__int64,__int64>,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::operator [](std::pair<__int64,__int64> &&)'
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Ty=std::pair<__int64,__int64>
+          ]
+  d:\files\c\lc\wc\182\c\c\source.cpp(48): note: 인수 목록 '(std::unordered_map<std::pair<__int64,__int64>,std::pair<__int64,__int64>,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>, initializer list)'을(를) 일치시키는 동안
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Ty=std::pair<__int64,__int64>
+          ]
+d:\files\c\lc\wc\182\c\c\source.cpp(60): error C2664: 'std::_List_const_iterator<std::_List_val<std::_List_simple_types<std::pair<const _Kty,_Ty>>>> std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::find(const std::pair<__int64,__int64> &) const': 인수 1을(를) 'initializer list'에서 'const std::pair<__int64,__int64> &'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Kty=std::pair<__int64,__int64>,
+              _Ty=std::pair<__int64,__int64>,
+              _Hasher=std::hash<std::pair<__int64,__int64>>,
+              _Keyeq=std::equal_to<std::pair<__int64,__int64>>,
+              _Alloc=std::allocator<std::pair<const std::pair<__int64,__int64>,std::pair<__int64,__int64>>>
+          ]
+  d:\files\c\lc\wc\182\c\c\source.cpp(60): note: 원인: 'initializer list'에서 'const std::pair<__int64,__int64>'(으)로 변환할 수 없습니다.
+  d:\files\c\lc\wc\182\c\c\source.cpp(60): note: 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.

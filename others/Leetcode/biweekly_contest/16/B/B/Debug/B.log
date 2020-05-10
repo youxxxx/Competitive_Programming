@@ -1,0 +1,5 @@
+﻿  source.cpp
+d:\files\c\lc\bwc\16\b\b\source.cpp(12): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+d:\files\c\lc\bwc\16\b\b\source.cpp(12): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  B.vcxproj -> D:\files\C\lc\bwc\16\B\Debug\B.exe
+  B.vcxproj -> D:\files\C\lc\bwc\16\B\Debug\B.pdb (Partial PDB)

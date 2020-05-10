@@ -1,0 +1,5 @@
+﻿  source.cpp
+d:\files\c\ac\bc\164\b\b\source.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  B.vcxproj -> D:\files\C\ac\bc\164\B\Debug\B.exe
+  B.vcxproj -> D:\files\C\ac\bc\164\B\Debug\B.pdb (Partial PDB)

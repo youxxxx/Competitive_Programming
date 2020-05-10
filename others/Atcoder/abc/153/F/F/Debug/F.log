@@ -1,0 +1,12 @@
+﻿  source.cpp
+d:\files\c\ac\bc\153\f\f\source.cpp(69): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\153\f\f\source.cpp(71): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\153\f\f\source.cpp(76): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\153\f\f\source.cpp(80): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\153\f\f\source.cpp(87): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\153\f\f\source.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\ac\bc\153\f\f\source.cpp(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  F.vcxproj -> D:\files\C\ac\bc\153\F\Debug\F.exe
+  F.vcxproj -> D:\files\C\ac\bc\153\F\Debug\F.pdb (Partial PDB)

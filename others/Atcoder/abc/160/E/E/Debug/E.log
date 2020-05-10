@@ -1,0 +1,59 @@
+﻿  source.cpp
+d:\files\c\ac\bc\160\e\e\source.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\ac\bc\160\e\e\source.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\ac\bc\160\e\e\source.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\ac\bc\160\e\e\source.cpp(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(893): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(890): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool std::_Debug_lt_pred<_Pr&,__int64&,__int64&>(std::greater<int>&,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(<expr>)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Pr=std::greater<int>,
+              _Ty1=__int64 &,
+              _Ty2=__int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(2748): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=__int64 *,
+              _Pr=std::greater<int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(2776): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Sort_unchecked1<_RanIt,int,_Pr>(_RanIt,_RanIt,_Diff,_Pr &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=__int64 *,
+              _Pr=std::greater<int>,
+              _Diff=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(2784): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Sort_unchecked<__int64*,_Pr>(_RanIt,_RanIt,_Pr &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Pr=std::greater<int>,
+              _RanIt=__int64 *
+          ]
+  d:\files\c\ac\bc\160\e\e\source.cpp(50): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,std::greater<int>>(_RanIt,_RanIt,_Pr)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,
+              _Pr=std::greater<int>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(896): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(2691): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool std::_Debug_lt_pred<_Pr&,__int64&,__int64&>(std::greater<int>&,_Ty1,_Ty2,std::_Dbfile_t,std::_Dbline_t) noexcept(false)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Pr=std::greater<int>,
+              _Ty1=__int64 &,
+              _Ty2=__int64 &
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(2748): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _RanIt=__int64 *,
+              _Pr=std::greater<int>
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(898): warning C4244: '인수': '__int64'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  E.vcxproj -> D:\files\C\ac\bc\160\E\Debug\E.exe
+  E.vcxproj -> D:\files\C\ac\bc\160\E\Debug\E.pdb (Partial PDB)

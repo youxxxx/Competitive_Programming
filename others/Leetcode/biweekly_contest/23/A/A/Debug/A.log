@@ -1,0 +1,4 @@
+﻿  source.cpp
+d:\files\c\lc\bwc\23\a\a\source.cpp(33): warning C4700: 초기화되지 않은 'lmax' 지역 변수를 사용했습니다.
+  A.vcxproj -> D:\files\C\lc\bwc\23\A\Debug\A.exe
+  A.vcxproj -> D:\files\C\lc\bwc\23\A\Debug\A.pdb (Partial PDB)

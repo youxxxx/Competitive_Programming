@@ -1,0 +1,16 @@
+﻿  source.cpp
+d:\files\c\ac\bc\152\e\e\source.cpp(31): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(57): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(59): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(91): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(96): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(98): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(105): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(109): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(113): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\ac\bc\152\e\e\source.cpp(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\ac\bc\152\e\e\source.cpp(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  E.vcxproj -> D:\files\C\ac\bc\152\E\Debug\E.exe
+  E.vcxproj -> D:\files\C\ac\bc\152\E\Debug\E.pdb (Partial PDB)

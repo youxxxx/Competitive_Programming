@@ -1,0 +1,6 @@
+﻿  source.cpp
+d:\files\c\lc\bwc\19\b\b\source.cpp(42): error C2664: 'int Solution::numOfSubarrays(std::vector<int,std::allocator<_Ty>> &,int,int)': 인수 1을(를) 'initializer list'에서 'std::vector<int,std::allocator<_Ty>> &'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Ty=int
+          ]

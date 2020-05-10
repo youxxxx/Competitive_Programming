@@ -1,0 +1,25 @@
+﻿  source.cpp
+d:\files\c\cf\misc\1270\e\e\source.cpp(24): warning C4101: 'next' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(25): warning C4101: 'rvalue' :참조되지 않은 지역 변수입니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(51): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(72): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(116): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(137): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(138): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(154): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(155): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(164): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(172): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(186): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(187): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(207): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(208): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(215): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(262): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\cf\misc\1270\e\e\source.cpp(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\misc\1270\e\e\source.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\misc\1270\e\e\source.cpp(205): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  E.vcxproj -> D:\files\C\cf\misc\1270\E\Debug\E.exe
+  E.vcxproj -> D:\files\C\cf\misc\1270\E\Debug\E.pdb (Partial PDB)
