@@ -1,0 +1,22 @@
+﻿  source.cpp
+d:\files\c\cf\693\f\f\source.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\693\f\f\source.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\files\c\cf\693\f\f\source.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(172): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  d:\files\c\cf\693\f\f\source.cpp(37): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<int,int>::pair<__int64&,__int64,void,0>(_Other1,_Other2 &&) noexcept'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Other1=__int64 &,
+              _Other2=__int64
+          ]
+  d:\files\c\cf\693\f\f\source.cpp(37): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<int,int>::pair<__int64&,__int64,void,0>(_Other1,_Other2 &&) noexcept'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Other1=__int64 &,
+              _Other2=__int64
+          ]
+  F.vcxproj -> D:\files\C\cf\693\F\Debug\F.exe
+  F.vcxproj -> D:\files\C\cf\693\F\Debug\F.pdb (Partial PDB)

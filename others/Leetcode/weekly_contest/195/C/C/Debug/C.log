@@ -1,0 +1,5 @@
+﻿  source.cpp
+d:\files\c\lc\wc\195\c\c\source.cpp(62): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\files\c\lc\wc\195\c\c\source.cpp(68): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+  C.vcxproj -> D:\files\C\lc\wc\195\C\Debug\C.exe
+  C.vcxproj -> D:\files\C\lc\wc\195\C\Debug\C.pdb (Partial PDB)

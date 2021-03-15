@@ -1,0 +1,8 @@
+﻿  source.cpp
+d:\files\c\lc\bwc\29\d\d\source.cpp(65): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\lc\bwc\29\d\d\source.cpp(98): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\lc\bwc\29\d\d\source.cpp(116): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\lc\bwc\29\d\d\source.cpp(169): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\lc\bwc\29\d\d\source.cpp(203): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  D.vcxproj -> D:\files\C\lc\bwc\29\D\Debug\D.exe
+  D.vcxproj -> D:\files\C\lc\bwc\29\D\Debug\D.pdb (Partial PDB)

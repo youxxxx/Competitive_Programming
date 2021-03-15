@@ -1,0 +1,11 @@
+﻿  source.cpp
+d:\files\c\lc\wc\205\d\d\source.cpp(35): warning C4101: 'next' :참조되지 않은 지역 변수입니다.
+d:\files\c\lc\wc\205\d\d\source.cpp(36): warning C4101: 'rvalue' :참조되지 않은 지역 변수입니다.
+d:\files\c\lc\wc\205\d\d\source.cpp(75): warning C4101: 'next' :참조되지 않은 지역 변수입니다.
+d:\files\c\lc\wc\205\d\d\source.cpp(76): warning C4101: 'rvalue' :참조되지 않은 지역 변수입니다.
+d:\files\c\lc\wc\205\d\d\source.cpp(119): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\lc\wc\205\d\d\source.cpp(138): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\lc\wc\205\d\d\source.cpp(162): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\files\c\lc\wc\205\d\d\source.cpp(178): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  D.vcxproj -> D:\files\C\lc\wc\205\D\Debug\D.exe
+  D.vcxproj -> D:\files\C\lc\wc\205\D\Debug\D.pdb (Partial PDB)
